@@ -7,11 +7,10 @@ La solución del **"Alura Challenges ONE - Encriptador de Texto"**. Reto de la f
 ### Indice 
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Funcionalidades](#funcionalidades)
-- [Aplicação](#aplicação)
 - [Herramientas utilizadas](#herramientas-utilizadas)
 - [Acceso al proyecto](#acesso-al-proyecto)
 - [Abrir el proyecto](#abrir-el-proyecto)
-- [Formato](#formato)
+- [Formato de encriptación](#formato-de-encriptacion)
 - [Desarrollador](#desarrollador)
   
 ## Descripción del Proyecto
@@ -31,13 +30,13 @@ Posee 3 botones que ofrecen las siguientes funcionalidades:
 :heavy_check_mark: `Desencriptar:` Realiza la desencriptación del texto formateado, para ser entendido por el usuario final.
 
 ## Herramientas utilizadas
-Se empleo para su desarrollo los lenguajes de programación HTML5, CSS3 y JavaScript.
+Se empleo para su desarrollo los lenguajes de programación HTML5, CSS3 y JavaScript, con la interfaz "Visual Studio Code".
 
 ## Acceso al proyecto
- Puedes [acceder al código fuente del proyecto](https://github.com/JavierAlonsoJM)
+ Puedes [acceder al código fuente del proyecto](https://github.com/JavierAlonsoJM/Challenge-Encriptador-de-Texto/)
 
 ## Abrir el proyecto.
-Cargue la ruta en el "Acceso al proyecto", Después escriba el texto que va a encriptar, haga click en el botón *ENCRIPTAR*, el resultado de la encripación lo vera en el lado derecho, donde aparecerá el botón *COPIAR*, de click en este para copaira el texto ecriptado y enviarlo a otro usuario de la webapp.
+Abra la ruta en el ["Acceso al proyecto"](https://github.com/JavierAlonsoJM/Challenge-Encriptador-de-Texto/), Después escriba el texto que va a encriptar, haga click en el botón *ENCRIPTAR*, el resultado de la encripación lo vera en el lado derecho, donde aparecerá el botón *COPIAR*, de click en este para copaira el texto ecriptado y enviarlo a otro usuario de la webapp.
 Si es Ud el que recibe el texto encripatdo, pegelo en el lado izquierdo y haga click en le botón *DESENCRIPTAR* para conocer el texto en su versión desencriptada y saber que le mandarona a escribir.
 
 ## Formato de encriptación
@@ -48,6 +47,7 @@ La letra "e" se convierte en "34739"
 La letra "i" se convierte en "1335"
 La letra "o" se convierte en "0639"
 La letra "u" se convierte en "4747"
+`````
 *Con este formato convierte cualquier texto en su versión encriptada, como por ejemplo:
 "ave" devuelve = 91v34739
 "perro" devuelve = p34739rr0639
@@ -58,7 +58,5 @@ Las **restricciones** para escribir los textos, esta restringida por los siguien
 - No deben ser utilizados letras con acentos ni caracteres especiales.
 
 ## Desarrollador
-| [<img src="https://avatars.githubusercontent.com/u/106554236?v=4" width=115><br><sub>Javier Jiménez Muñoz</sub>]
-
-| :---: | :---: 
+| [<img src="https://avatars.githubusercontent.com/u/106554236?v=4" width=115><br><sub>Ing. Javier Jiménez Muñoz</sub>] |
  
