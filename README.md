@@ -1,6 +1,3 @@
-# Challenge-Encriptador-de-Texto
-Desarrollo de una we para Encriptar Texto del "Alura Challenges ONE" con HTML5, CSS3 y JavaScript.
-
 # Encriptador de texto - Alura Challenges ONE
 La solución del **"Alura Challenges ONE - Encriptador de Texto"**. Reto de la formación "Oracle Next Education (ONE)" de "Oracle + Alura LATAM". 
 
