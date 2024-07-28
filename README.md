@@ -58,5 +58,5 @@ Las **restricciones** para escribir los textos, esta restringida por los siguien
 - No deben ser utilizados letras con acentos ni caracteres especiales.
 
 ## Desarrollador
-| [<img src="https://avatars.githubusercontent.com/u/106554236?v=4" width=115><br><sub>Ing. Javier Jiménez Muñoz</sub>] |
+<img src="https://avatars.githubusercontent.com/u/106554236?v=4" width=115><br><sub>Ing. Javier Jiménez Muñoz</sub>
  
