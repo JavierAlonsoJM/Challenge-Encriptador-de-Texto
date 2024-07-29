@@ -3,13 +3,13 @@
     font-family: 'Inter';
     font-weight: 400;
     font-size: 32px;
-    line-height: 150%;
+    line-height: 100%;
 }
 .logo{
     padding-top: 10px;
     margin-left: 20px;
     margin-top: 20px;
-    width: 8%;
+    width: 12%;
 }
 main{
     display: flex;
@@ -19,7 +19,7 @@ main{
 }
 .entrada-texto{
     resize: none;
-    margin-top: 90px;
+    margin-top: 50px;
     color: #0A3871;
     border: none;
 }
@@ -31,11 +31,11 @@ main{
 }
 .salida-texto{
     resize: none;
-    margin-left: 98px;
-    padding: 20px;
-    padding-bottom: 120px;
+    margin-left: 68px;
+    padding: 40px;
+    padding-bottom: 30px;
     height: 612px;
-    color: #0A3871;
+    color: darkblue;
     background: white;
     background-image: url(imagenes/notexto.png);
     background-repeat: no-repeat;
@@ -53,7 +53,7 @@ main{
 }
 .botones{
     display: flex;
-    margin-top: 12px;
+    margin-top: 18px;
 }
 .encriptar{
     color: #ffffff;
@@ -74,11 +74,11 @@ main{
     margin-left: 30px;
     width: 328px;
 }
-.ventana{
+.informacion{
     background: transparent;
-    margin-left: 120px;
+    margin-left: 130px;
     margin-top: -240px;
-    width: 400px;
+    width: 360px;
     position: absolute;
     text-align: center;
     justify-content: center;
@@ -86,6 +86,7 @@ main{
 .txt1{
     width: 336px;
     font-size: 24px;
+    padding-top: 0px;
     font-weight: bold;
     line-height: initial;
     background: transparent;
@@ -93,9 +94,8 @@ main{
 .txt2{
     width: 336px;
     font-size: 16px;
-
     padding-top: 0px;
-    padding-bottom: 243px;
+    padding-bottom: 143px;
     line-height: initial;
     background: transparent;
 }
@@ -106,14 +106,14 @@ main{
     border-radius: 25px;
     cursor: pointer;
     height: 67px;
-    width: 400px;
-    margin-top: 120px;
+    width: 328px;
+    margin-top: 90px;
 }
 .encriptar:hover, .desencriptar:hover, .copiar:hover{
     background: #555;
     color: white;
 }
-.anuncio{
+.ventana{
     display: none;
     width: 300px;
     background-color: #555;
@@ -123,7 +123,7 @@ main{
     padding: 5px;
     position: absolute;
     z-index: 1;
-    bottom: 80px;
+    bottom: 60px;
     left: 100px;
     margin-left: -75px;
     opacity: .6;
@@ -155,7 +155,7 @@ footer{
     .salida-texto{
         height: 550px;
     }
-    .ventana{
+    .informacion{
         margin-top: -160px;
     }
     .copiar{
@@ -186,7 +186,7 @@ footer{
     height: 300px;
     background: white;
    }
-   .ventana{
+   .informacion{
     margin-top: -250px;
     margin-left: 0px;
     width: 655px;
@@ -197,7 +197,7 @@ footer{
    .copiar{
     margin-top: 100px;
    }
-   .anuncio{
+   .ventana{
     margin-left: 70px;
    }
 }
@@ -222,10 +222,10 @@ footer{
         margin-left: 0px;
         margin-top: 15px;
     }
-    .salida-texto, .ventana, .copiar{
+    .salida-texto, .informacion, .copiar{
         width: 295px;
     }
-    .ventana{
+    .informacion{
         margin-left: 10px;
     }
     .salida-texto{
@@ -233,7 +233,7 @@ footer{
         padding-bottom: 120px;
         height: 180px;
     }
-    .anuncio{
+    .ventana{
         width: 285px;
         margin-left: -100px;
     }
