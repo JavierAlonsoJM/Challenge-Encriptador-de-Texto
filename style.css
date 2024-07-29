@@ -31,6 +31,7 @@ main{
 }
 .salida-texto{
     resize: none;
+    height: 400px;
     margin-left: 68px;
     padding: 40px;
     padding-bottom: 30px;
